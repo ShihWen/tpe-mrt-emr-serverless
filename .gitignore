@@ -1,6 +1,7 @@
 
 
 credentials.cfg
+git_token.csv
 spark-mrt-credentials.csv
 .DS_Store
 
