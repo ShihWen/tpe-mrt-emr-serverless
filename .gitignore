@@ -1,0 +1,13 @@
+
+
+credentials.cfg
+spark-mrt-credentials.csv
+.DS_Store
+
+.ipynb_checkpoints
+house_index_plot_OO.ipynb
+emr-serverless-IaC.ipynb
+mrt-spark.ipynb
+
+mrt-first-job.py
+
