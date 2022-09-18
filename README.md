@@ -57,4 +57,8 @@ Use EMR Serverless with Boto3
 - run `emr-serverless-IaC-functional.ipynb`
 - read output with `read_outputs.ipynb`
 
+## Output
+<p align="center">
+  <img src="plot/wkly_by_line.png" alt="taipei_metro" width="700px">
+</p>
   
