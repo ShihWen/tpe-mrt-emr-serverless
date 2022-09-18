@@ -8,15 +8,15 @@ Use EMR Serverless with Boto3
 
 
 ## Files
-- generate-parquet.ipynb
+- `generate-parquet.ipynb`
     - Download source data and transform into `parquet` format
-- credentials_example.cfg
+- `credentials_example.cfg`
     - Credentials required for running `EMR Serverless`.
-- emr-serverless-IaC-functional.ipynb
+- `emr-serverless-IaC-functional.ipynb`
     - Set up an `Application` in `EMR Studio`.
     - Generate required `role`, `policy` and attach it to the role.
     - Submit `job` to the `Application` and track the status
-- read_outputs.ipynb
+- `read_outputs.ipynb`
     - read outputs in `S3` with `awswrangler`
     - visualize data with `matplotlib`
 
